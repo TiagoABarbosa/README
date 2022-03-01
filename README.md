@@ -22,9 +22,9 @@
   <br><br>
   
   <p align="justify">
-Tecnologia sempre foi minha grande paixão, buscando entender mais sobre computadores em sua parte física até a montagem final
+Tecnologia sempre foi minha grande paixão, buscando entender mais sobre computadores em sua parte física até a montagem final.
 
-Formado em Análise de Desenvolvimento de Sistemas pela Cruzeiro do Sul Virtual, iniciei uma Pós Graduação em Desenvolvimento Web Full Stack pela PUC Minas 
+Formado em Análise de Desenvolvimento de Sistemas pela Cruzeiro do Sul Virtual, iniciei uma Pós-Graduação em Desenvolvimento Web Full Stack pela PUC Minas. 
 
 Com esse objetivo realizei diversos cursos somando mais de 400hs aulas, voltados para desenvolvimento Web, utilizando diversas linguagens e seus frameworks como HTML5, CSS3, JavaScript, React JS, Node.JS, Java e Spring Boot.
   </p>
@@ -51,6 +51,7 @@ const tiagoBarbosa = {
 
 ## 🛠 &nbsp;Tech Stack
 
+![JAVA](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=java)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -66,6 +67,7 @@ const tiagoBarbosa = {
 
 ![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 
 <br>
 
@@ -73,6 +75,6 @@ const tiagoBarbosa = {
 
 <div align="center">
   <a href="https://github.com/TiagoABarbosa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=acn3to&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acn3to&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoABarbosa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoABarbosa&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
