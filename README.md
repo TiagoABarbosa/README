@@ -21,19 +21,21 @@
 
 <br><br>
 
-  <p align="justify">
+<p align="justify">
 Tecnologia sempre foi minha grande paixão, buscando entender mais sobre computadores em sua parte física até a montagem final.
-
+</p>
+<p align="justify">
 Formado em Análise de Desenvolvimento de Sistemas pela Cruzeiro do Sul Virtual, iniciei uma Pós-Graduação em Desenvolvimento Web Full Stack pela PUC Minas.
+</p>
+< align="justify">
+Com esse objetivo realizei diversos cursos somando mais de 400hs aulas, voltados para desenvolvimento Web, utilizando diversas linguagens e seus frameworks como HTML5, CSS3, JavaScript, React JS, Node.JS, Java e Spring Boot.
+</p>
+<br>
 
-Com esse objetivo realizei diversos cursos somando mais de 400hs aulas, voltados para desenvolvimento Web, utilizando diversas linguagens e seus frameworks como HTML5, CSS3, JavaScript, React JS, Node.JS, Java e Spring Boot.</p>
-  
-  <br>
-  
 :bulb: "Só por que alguma coisa não faz o que você planejou que ela fizesse não quer dizer que ela seja inútil"
 </div>
 
-  <br>
+<br>
 
 ```javascript
 const tiagoBarbosa = {
@@ -41,12 +43,10 @@ const tiagoBarbosa = {
   code: [Java, Javascript, Typescript, Html5, Css3, Sass],
   tools: [Spring, React, Node],
   databases: [Oracle, Postgres, MySQL],
-  inProgress: "Web Developer :mortar_board:",
-  curiosity: "",
+  inProgress: "Web Developer...",
 };
 ```
-
-  <br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
