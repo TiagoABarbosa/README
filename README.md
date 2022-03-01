@@ -42,8 +42,7 @@ const tiagoBarbosa = {
   code: [Java, Javascript, Typescript, Html5, Css3, Sass],
   tools: [Spring, React, Node],
   databases: [Oracle, Postgres, MySQL],
-  inProgress: "",
-  curiosity: "",
+  inProgress: "Desenvolvimento Web Full Stack",
 };
 ```
 
