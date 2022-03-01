@@ -32,7 +32,7 @@ Com esse objetivo realizei diversos cursos somando mais de 400hs aulas, voltados
 </p>
 <br>
 
-:bulb: "Só por que alguma coisa não faz o que você planejou que ela fizesse não quer dizer que ela seja inútil"
+<i> :bulb: "Só por que alguma coisa não faz o que você planejou que ela fizesse não quer dizer que ela seja inútil"</i>
 </div>
 
 <br>
