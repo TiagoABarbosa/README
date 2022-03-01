@@ -8,11 +8,8 @@
   <a href="https://www.instagram.com/tiago_alvves/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-TiagoABarbosa-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
-  <a href="https://discordapp.com/users/366398902846619649/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-TiagoABarbosa-05122A?style=flat&logo=discord" alt="discord"/>
-  </a>
   <a href="mailto:tiago.sistemass@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-costanetoow-05122A?style=flat&logo=gmail" alt="gmail"/> 
+    <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="gmail"/> 
   </a>
 </p>
 
@@ -25,8 +22,11 @@
   <br><br>
   
   <p align="justify">
-I'm a continuous and dedicated Full Stack Development Student, adept at the concept of #LifelongLearning.
-I want to develop ideas and make them real, with the knowledge possible to develop applications that make a difference in the world with scale and good usability.
+Tecnologia sempre foi minha grande paixão, buscando entender mais sobre computadores em sua parte física até a montagem final
+
+Formado em Análise de Desenvolvimento de Sistemas pela Cruzeiro do Sul Virtual, iniciei uma Pós Graduação em Desenvolvimento Web Full Stack pela PUC Minas 
+
+Com esse objetivo realizei diversos cursos somando mais de 400hs aulas, voltados para desenvolvimento Web, utilizando diversas linguagens e seus frameworks como HTML5, CSS3, JavaScript, React JS, Node.JS, Java e Spring Boot.
   </p>
   
   <br>
@@ -56,15 +56,15 @@ const tiagoBarbosa = {
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass&logoColor=1572B6)&nbsp;
-![Dart](https://img.shields.io/badge/-dart-05122A?style=flat&logo=dart&logoColor=1572B6)
+
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=1572B6)
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
+![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 
 <br>
@@ -72,8 +72,7 @@ const tiagoBarbosa = {
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/acn3to">
+  <a href="https://github.com/TiagoABarbosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=acn3to&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acn3to&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-# README.md
