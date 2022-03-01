@@ -1,4 +1,4 @@
-<h1 align="left"> Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Tiago Barbosa</h1>
+<h1 align="left"> Hi <img src="https://github.com/TiagoABarbosa/README.md/blob/main/hi.gif" width="30px">, I'm Tiago Barbosa</h1>
 
 <p align="left">
   Connect with me:
@@ -27,7 +27,7 @@ Tecnologia sempre foi minha grande paixão, buscando entender mais sobre computa
 <p align="justify">
 Formado em Análise de Desenvolvimento de Sistemas pela Cruzeiro do Sul Virtual, iniciei uma Pós-Graduação em Desenvolvimento Web Full Stack pela PUC Minas.
 </p>
-< align="justify">
+<p align="justify">
 Com esse objetivo realizei diversos cursos somando mais de 400hs aulas, voltados para desenvolvimento Web, utilizando diversas linguagens e seus frameworks como HTML5, CSS3, JavaScript, React JS, Node.JS, Java e Spring Boot.
 </p>
 <br>
